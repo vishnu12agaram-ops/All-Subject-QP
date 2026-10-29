@@ -3,30 +3,30 @@
 
 ---
 
-## 1. High-Yield Topic Priority Table
+## 1. High-Yield Topic Priority Table with Video Learning Matrix
 
-| No. | Topic | Exam Sessions Appeared | Count | Exam Priority |
-| :---: | :--- | :--- | :---: | :--- |
-| **1** | **Maxwell’s Equations & EM Wave Equation** (Differential/integral forms, plane waves in vacuum, physical significance of $\nabla \cdot \mathbf{B} = 0$, wave equation derivation) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** |
-| **2** | **Particle in a Box (1D & 3D Infinite Potential Well)** (Eigenvalues, normalized eigenfunctions, zero-point energy, correspondence principle) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** |
-| **3** | **Scanning Tunneling Microscope (STM) & Quantum Tunneling** (Barrier penetration, tunneling probability, STM principle, construction, tip piezo-controls, imaging) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** |
-| **4** | **Kronig–Penney Model & Origin of Energy Bands** (Bloch theorem, periodic potential, $P \frac{\sin \alpha a}{\alpha a} + \cos \alpha a = \cos k a$, allowed and forbidden bands, effective mass) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2025 AM, 2026 AM | 8 | **Top Priority** |
-| **5** | **Schrödinger Wave Equations** (Derivation of time-dependent and time-independent forms, physical significance of $\psi$, Born interpretation, normalization) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** |
-| **6** | **Lasers: $\text{CO}_2$ and $\text{Nd:YAG}$ Lasers** (Four-level vibrational/solid-state systems, population inversion, resonant cavity, pumping schemes, industrial/medical uses) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** |
-| **7** | **Gyroscope & Rotational Dynamics** (Principle, construction, precessional angular velocity, gyroscopic torque, compass and navigational guidance applications) | 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM | 6 | **Top Priority** |
-| **8** | **Moment of Inertia Theorems & Rigid Body Rotation** (Parallel and perpendicular axes theorems, kinetic energy $K = \frac{1}{2}I\omega^2$, uniform rod, hollow cylinder, circular disc) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2024 AM, 2025 AM, 2026 AM | 8 | **Top Priority** |
-| **9** | **Torsional Pendulum & Rigidity Modulus** (Restoring couple, time period $T = 2\pi\sqrt{\frac{I}{C}}$, determination of wire rigidity modulus $n$ and disc moment of inertia) | 2022 ND (30516), 2024 AM, 2025 AM, 2026 AM | 4 | **High** |
-| **10** | **Reflection and Transmission of EM Waves at Dielectric Interface** (Boundary conditions, normal incidence, Fresnel reflection $R$ and transmission $T$ coefficients) | 2021 ND, 2022 ND (30516), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 7 | **Top Priority** |
-| **11** | **Air Wedge Experiment & Interference** (Wedge-shaped thin film, fringe width $\beta = \frac{\lambda}{2\theta}$, testing flatness, thickness of thin wire/foil) | 2023 AM, 2024 AM, 2025 AM | 3 | **High** |
-| **12** | **Compton Effect & Compton Shift** (Derivation of $\Delta\lambda = \frac{h}{m_0 c}(1 - \cos\theta)$, absence in visible spectrum, recoil electron energy, photon scattering angle) | 2021 ND, 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM | 7 | **Top Priority** |
-| **13** | **Harmonic Oscillators (Classical vs Quantum)** (Simple harmonic motion, resonance, electrical-mechanical analogies, zero-point energy $E_0 = \frac{1}{2}\hbar\omega$, Hermite levels) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** |
-| **14** | **Einstein’s Coefficients & Radiation Theory** ($A_{21}, B_{12}, B_{21}$ relations, ratio of spontaneous to stimulated emissions, Planck's law derivation) | 2021 ND, 2022 ND (30516), 2023 ND | 3 | **High** |
-| **15** | **Standing and Travelling Waves** (Wave equation, node-antinode energy distribution, vehicle suspension vibrations, energy transfer rate) | 2021 ND, 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2026 AM | 6 | **Very High** |
-| **16** | **Rotational Energy of Diatomic Molecules** (Rigid rotator model, reduced mass $\mu$, moment of inertia, quantized energy levels $E_J = \frac{J(J+1)\hbar^2}{2I}$) | 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND | 4 | **High** |
-| **17** | **Radiation Pressure & EM Momentum** (Poynting vector, absorption $P = I/c$, complete reflection $P = 2I/c$, force on targets) | 2021 ND, 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2025 AM, 2026 AM | 7 | **Top Priority** |
-| **18** | **Resonant Tunneling Diode (RTD)** (Double barrier quantum well structure, quasi-bound states, negative differential resistance [NDR], I-V curve) | 2022 ND (30516), 2023 AM, 2024 AM, 2025 AM | 4 | **High** |
-| **19** | **de Broglie Matter Waves & Properties** (Wavelength $\lambda = h/p = h/\sqrt{2mE}$, Davisson–Germer confirmation, wave packet group vs phase velocity) | 2022 ND (30516), 2023 AM, 2024 AM, 2025 AM, 2026 AM | 5 | **Very High** |
-| **20** | **Michelson’s Interferometer** (Principle, circular and localized fringes, wavelength of monochromatic light, refractive index of thin sheet) | 2025 AM, 2026 AM | 2 | **Medium–High** |
+| No. | Topic | Exam Sessions Appeared | Count | Exam Priority | Recommended Video Guide / Search Keywords |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| **1** | **Maxwell’s Equations & EM Wave Equation** (Differential/integral forms, plane waves in vacuum, physical significance of $\nabla \cdot \mathbf{B} = 0$, wave equation derivation) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** | [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy) |
+| **2** | **Particle in a Box (1D & 3D Infinite Potential Well)** (Eigenvalues, normalized eigenfunctions, zero-point energy, correspondence principle) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** | [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy) |
+| **3** | **Scanning Tunneling Microscope (STM) & Quantum Tunneling** (Barrier penetration, tunneling probability, STM principle, construction, tip piezo-controls, imaging) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** | [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy) |
+| **4** | **Kronig–Penney Model & Origin of Energy Bands** (Bloch theorem, periodic potential, $P \frac{\sin \alpha a}{\alpha a} + \cos \alpha a = \cos k a$, allowed and forbidden bands, effective mass) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2025 AM, 2026 AM | 8 | **Top Priority** | [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Kronig+Penney+Model+in+Tamil+PH3151+4G+Silver+Academy) |
+| **5** | **Schrödinger Wave Equations** (Derivation of time-dependent and time-independent forms, physical significance of $\psi$, Born interpretation, normalization) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** | [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Wave+Equation+in+Tamil+PH3151+4G+Silver+Academy) |
+| **6** | **Lasers: $\text{CO}_2$ and $\text{Nd:YAG}$ Lasers** (Four-level vibrational/solid-state systems, population inversion, resonant cavity, pumping schemes, industrial/medical uses) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** | [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=CO2+Laser+and+Nd+YAG+Laser+in+Tamil+PH3151+4G+Silver+Academy) |
+| **7** | **Gyroscope & Rotational Dynamics** (Principle, construction, precessional angular velocity, gyroscopic torque, compass and navigational guidance applications) | 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM | 6 | **Top Priority** | [Gyroscope Principle and Working in Tamil](https://www.youtube.com/results?search_query=Gyroscope+in+Tamil+PH3151+4G+Silver+Academy) |
+| **8** | **Moment of Inertia Theorems & Rigid Body Rotation** (Parallel and perpendicular axes theorems, kinetic energy $K = \frac{1}{2}I\omega^2$, uniform rod, hollow cylinder, circular disc) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2024 AM, 2025 AM, 2026 AM | 8 | **Top Priority** | [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Moment+of+Inertia+Theorems+in+Tamil+PH3151+4G+Silver+Academy) |
+| **9** | **Torsional Pendulum & Rigidity Modulus** (Restoring couple, time period $T = 2\pi\sqrt{\frac{I}{C}}$, determination of wire rigidity modulus $n$ and disc moment of inertia) | 2022 ND (30516), 2024 AM, 2025 AM, 2026 AM | 4 | **High** | [Torsional Pendulum in Tamil](https://www.youtube.com/results?search_query=Torsional+Pendulum+in+Tamil+PH3151+4G+Silver+Academy) |
+| **10** | **Reflection and Transmission of EM Waves at Dielectric Interface** (Boundary conditions, normal incidence, Fresnel reflection $R$ and transmission $T$ coefficients) | 2021 ND, 2022 ND (30516), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 7 | **Top Priority** | [Reflection and Transmission of EM Waves in Tamil](https://www.youtube.com/results?search_query=Reflection+and+Transmission+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy) |
+| **11** | **Air Wedge Experiment & Interference** (Wedge-shaped thin film, fringe width $\beta = \frac{\lambda}{2\theta}$, testing flatness, thickness of thin wire/foil) | 2023 AM, 2024 AM, 2025 AM | 3 | **High** | [Air Wedge Experiment in Tamil](https://www.youtube.com/results?search_query=Air+Wedge+Experiment+in+Tamil+PH3151+4G+Silver+Academy) |
+| **12** | **Compton Effect & Compton Shift** (Derivation of $\Delta\lambda = \frac{h}{m_0 c}(1 - \cos\theta)$, absence in visible spectrum, recoil electron energy, photon scattering angle) | 2021 ND, 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM | 7 | **Top Priority** | [Compton Effect in Tamil](https://www.youtube.com/results?search_query=Compton+Effect+Derivation+in+Tamil+PH3151+4G+Silver+Academy) |
+| **13** | **Harmonic Oscillators (Classical vs Quantum)** (Simple harmonic motion, resonance, electrical-mechanical analogies, zero-point energy $E_0 = \frac{1}{2}\hbar\omega$, Hermite levels) | 2021 ND, 2022 AM, 2022 ND (30516), 2022 ND (70175), 2023 AM, 2023 ND, 2024 AM, 2025 AM, 2026 AM | 9 | **Top Priority** | [Harmonic Oscillator Classical vs Quantum in Tamil](https://www.youtube.com/results?search_query=Quantum+Harmonic+Oscillator+in+Tamil+PH3151+4G+Silver+Academy) |
+| **14** | **Einstein’s Coefficients & Radiation Theory** ($A_{21}, B_{12}, B_{21}$ relations, ratio of spontaneous to stimulated emissions, Planck's law derivation) | 2021 ND, 2022 ND (30516), 2023 ND | 3 | **High** | [Einstein's Coefficients in Tamil](https://www.youtube.com/results?search_query=Einstein+Coefficients+A+and+B+in+Tamil+PH3151+4G+Silver+Academy) |
+| **15** | **Standing and Travelling Waves** (Wave equation, node-antinode energy distribution, vehicle suspension vibrations, energy transfer rate) | 2021 ND, 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2026 AM | 6 | **Very High** | [Standing Waves on a Stretched String in Tamil](https://www.youtube.com/results?search_query=Standing+Waves+on+a+String+in+Tamil+PH3151+4G+Silver+Academy) |
+| **16** | **Rotational Energy of Diatomic Molecules** (Rigid rotator model, reduced mass $\mu$, moment of inertia, quantized energy levels $E_J = \frac{J(J+1)\hbar^2}{2I}$) | 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND | 4 | **High** | [Rotational Energy of Diatomic Molecule in Tamil](https://www.youtube.com/results?search_query=Rotational+Energy+Levels+of+Diatomic+Molecule+in+Tamil+PH3151+4G+Silver+Academy) |
+| **17** | **Radiation Pressure & EM Momentum** (Poynting vector, absorption $P = I/c$, complete reflection $P = 2I/c$, force on targets) | 2021 ND, 2022 AM, 2022 ND (70175), 2023 AM, 2023 ND, 2025 AM, 2026 AM | 7 | **Top Priority** | [Poynting Vector and Radiation Pressure in Tamil](https://www.youtube.com/results?search_query=Poynting+Vector+Radiation+Pressure+in+Tamil+PH3151+4G+Silver+Academy) |
+| **18** | **Resonant Tunneling Diode (RTD)** (Double barrier quantum well structure, quasi-bound states, negative differential resistance [NDR], I-V curve) | 2022 ND (30516), 2023 AM, 2024 AM, 2025 AM | 4 | **High** | [Resonant Tunneling Diode RTD in Tamil](https://www.youtube.com/results?search_query=Resonant+Tunneling+Diode+in+Tamil+PH3151+4G+Silver+Academy) |
+| **19** | **de Broglie Matter Waves & Properties** (Wavelength $\lambda = h/p = h/\sqrt{2mE}$, Davisson–Germer confirmation, wave packet group vs phase velocity) | 2022 ND (30516), 2023 AM, 2024 AM, 2025 AM, 2026 AM | 5 | **Very High** | [de Broglie Matter Waves in Tamil](https://www.youtube.com/results?search_query=de+Broglie+Matter+Waves+in+Tamil+PH3151+4G+Silver+Academy) |
+| **20** | **Michelson’s Interferometer** (Principle, circular and localized fringes, wavelength of monochromatic light, refractive index of thin sheet) | 2025 AM, 2026 AM | 2 | **Medium–High** | [Michelson Interferometer in Tamil](https://www.youtube.com/results?search_query=Michelson+Interferometer+in+Tamil+PH3151+4G+Silver+Academy) |
 
 ---
 
@@ -52,26 +52,51 @@
 #### PART B — ($5 \times 16 = 80\text{ Marks}$)
 
 11. **(a)** Explain how the moment of inertia of rigid bodies affects their rotational kinetic energy. Derive the necessary mathematical relations. *(16 Marks)*  
-    *OR*  
-    **(b)** Discuss in detail the principle of conservation of angular momentum with illustrative physical examples. *(16 Marks)*
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Moment+of+Inertia+Theorems+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss in detail the principle of conservation of angular momentum with illustrative physical examples. *(16 Marks)*  
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Conservation+of+Angular+Momentum+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)** Deduce Maxwell’s equations in integral form. Briefly discuss plane electromagnetic waves in vacuum and the conditions satisfied by the wave fields. *(16 Marks)*  
-    *OR*  
-    **(b)** Discuss the reflection and transmission of electromagnetic waves incident normally on the interface of a non-conducting dielectric medium. *(16 Marks)*
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss the reflection and transmission of electromagnetic waves incident normally on the interface of a non-conducting dielectric medium. *(16 Marks)*  
+    *(Video Help: [Reflection and Transmission of EM Waves in Tamil](https://www.youtube.com/results?search_query=Reflection+and+Transmission+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)**
     * (i) State the analogies between electrical and mechanical oscillating systems and write a brief comparative note on standing and travelling waves. *(12 Marks)*
     * (ii) Two sound waves from a point source on the ground travel through the earth to a detector. The speed of one wave is $7.5\text{ km/s}$, and the speed of the other wave is $5.0\text{ km/s}$. If the waves arrive at the detector $15\text{ s}$ apart, find the distance from the point source to the detector. *(4 Marks)*  
-    *OR*  
-    **(b)** Explain the principle, construction, and working of a semiconductor diode laser with neat sketches. Mention its characteristic properties, advantages, and applications. *(16 Marks)*
+    *(Video Help: [Harmonic Oscillator Classical vs Quantum in Tamil](https://www.youtube.com/results?search_query=Electrical+and+Mechanical+Oscillator+Analogy+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Explain the principle, construction, and working of a semiconductor diode laser with neat sketches. Mention its characteristic properties, advantages, and applications. *(16 Marks)*  
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=Semiconductor+Laser+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)** Derive Schrödinger’s wave equation for a particle trapped in a three-dimensional rectangular potential box. Obtain the eigenvalues and normalized eigenfunctions. *(16 Marks)*  
-    *OR*  
-    **(b)** Discuss the statistical normalization and Born's probability interpretation of a wave function in quantum mechanics. *(16 Marks)*
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+3D+Box+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss the statistical normalization and Born's probability interpretation of a wave function in quantum mechanics. *(16 Marks)*  
+    *(Video Help: [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Physical+Significance+of+Wave+Function+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)** Explain the concepts of barrier penetration and quantum tunneling in detail with necessary potential sketches and transmission expressions. *(16 Marks)*  
-    *OR*  
-    **(b)** Write a comprehensive note on Bloch’s theorem for particles moving in a periodic potential and discuss the Kronig–Penney model. *(16 Marks)*
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Quantum+Tunneling+Barrier+Penetration+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Write a comprehensive note on Bloch’s theorem for particles moving in a periodic potential and discuss the Kronig–Penney model. *(16 Marks)*  
+    *(Video Help: [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Kronig+Penney+Model+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -93,24 +118,49 @@
 #### PART B — ($5 \times 16 = 80\text{ Marks}$)
 
 11. **(a)** Derive the relation between rotational kinetic energy and moment of inertia. Add a note on the moment of inertia and rotational energy of a diatomic molecule. *(16 Marks)*  
-    *OR*  
-    **(b)** Describe the principle, construction, and working of a gyroscope. Mention its practical applications in navigational and inertial guidance systems. *(16 Marks)*
+    *(Video Help: [Rotational Energy of Diatomic Molecule in Tamil](https://www.youtube.com/results?search_query=Rotational+Energy+Levels+of+Diatomic+Molecule+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Describe the principle, construction, and working of a gyroscope. Mention its practical applications in navigational and inertial guidance systems. *(16 Marks)*  
+    *(Video Help: [Gyroscope Principle and Working in Tamil](https://www.youtube.com/results?search_query=Gyroscope+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)** Discuss the physical origin and sources of electromagnetic waves and enumerate their characteristic physical properties. *(16 Marks)*  
-    *OR*  
-    **(b)** Derive Maxwell’s equations in both differential and integral forms from fundamental electromagnetic laws. *(16 Marks)*
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Properties+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Derive Maxwell’s equations in both differential and integral forms from fundamental electromagnetic laws. *(16 Marks)*  
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)** Explain simple harmonic motion (SHM) and discuss its physical characteristics. Hence derive the wave equation for standing waves on a string. *(16 Marks)*  
-    *OR*  
-    **(b)** Outline the principle, construction, and working of an $\text{Nd:YAG}$ laser with an energy level diagram. List three characteristic features, advantages, and applications. *(16 Marks)*
+    *(Video Help: [Standing Waves on a Stretched String in Tamil](https://www.youtube.com/results?search_query=Standing+Waves+on+a+String+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Outline the principle, construction, and working of an $\text{Nd:YAG}$ laser with an energy level diagram. List three characteristic features, advantages, and applications. *(16 Marks)*  
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=Nd+YAG+Laser+Construction+and+Working+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)** Give the theoretical derivation of the Compton shift formula and describe the experimental arrangement used for its verification. *(16 Marks)*  
-    *OR*  
-    **(b)** Using Schrödinger’s time-independent wave equation, obtain the energy eigenvalues and normalize the wave function of an electron trapped in a one-dimensional infinite potential well. *(16 Marks)*
+    *(Video Help: [Compton Effect in Tamil](https://www.youtube.com/results?search_query=Compton+Effect+Derivation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Using Schrödinger’s time-independent wave equation, obtain the energy eigenvalues and normalize the wave function of an electron trapped in a one-dimensional infinite potential well. *(16 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)** Explain the microscopic technique that uses the quantum tunneling principle to scan sample surfaces with atomic resolution (Scanning Tunneling Microscope). *(16 Marks)*  
-    *OR*  
-    **(b)** State and explain Bloch’s theorem for particles in a periodic potential. Discuss the Kronig–Penney model and explain qualitatively the origin of energy band gaps. *(16 Marks)*
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** State and explain Bloch’s theorem for particles in a periodic potential. Discuss the Kronig–Penney model and explain qualitatively the origin of energy band gaps. *(16 Marks)*  
+    *(Video Help: [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Kronig+Penney+Model+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -132,24 +182,49 @@
 #### PART B — ($5 \times 16 = 80\text{ Marks}$)
 
 11. **(a)** State and prove the parallel and perpendicular axis theorems of moment of inertia with neat sketches. *(16 Marks)*  
-    *OR*  
-    **(b)** Derive the expression for the period of oscillation of a torsional pendulum and show how it is used to determine the torsional rigidity of a suspension wire. *(16 Marks)*
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Moment+of+Inertia+Theorems+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Derive the expression for the period of oscillation of a torsional pendulum and show how it is used to determine the torsional rigidity of a suspension wire. *(16 Marks)*  
+    *(Video Help: [Torsional Pendulum in Tamil](https://www.youtube.com/results?search_query=Torsional+Pendulum+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)** Derive Maxwell’s equations for plane electromagnetic waves propagating in vacuum. *(16 Marks)*  
-    *OR*  
-    **(b)** Describe the generation and propagation of plane electromagnetic waves using oscillating dipole configurations. *(16 Marks)*
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Describe the generation and propagation of plane electromagnetic waves using oscillating dipole configurations. *(16 Marks)*  
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Propagation+of+EM+Waves+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)** Describe the design, construction, and working of a carbon dioxide ($\text{CO}_2$) molecular gas laser with an energy level diagram. *(16 Marks)*  
-    *OR*  
-    **(b)** Derive Einstein’s $A$ and $B$ coefficients for spontaneous and stimulated emissions and discuss their physical significance. *(16 Marks)*
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=CO2+Laser+Construction+and+Working+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Derive Einstein’s $A$ and $B$ coefficients for spontaneous and stimulated emissions and discuss their physical significance. *(16 Marks)*  
+    *(Video Help: [Einstein's Coefficients in Tamil](https://www.youtube.com/results?search_query=Einstein+Coefficients+A+and+B+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)** Derive Schrödinger’s time-independent and time-dependent wave equations in one dimension. *(16 Marks)*  
-    *OR*  
-    **(b)** Determine the discrete energy eigenvalues of a particle confined in a one-dimensional potential well of infinite depth, and normalize the wave functions. *(16 Marks)*
+    *(Video Help: [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Time+Dependent+and+Independent+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Determine the discrete energy eigenvalues of a particle confined in a one-dimensional potential well of infinite depth, and normalize the wave functions. *(16 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)** Explain the principle, construction, and working of a Scanning Tunneling Microscope (STM) with a neat schematic diagram. *(16 Marks)*  
-    *OR*  
-    **(b)** Prove Bloch’s theorem for particles moving in a one-dimensional periodic potential well. *(16 Marks)*
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Prove Bloch’s theorem for particles moving in a one-dimensional periodic potential well. *(16 Marks)*  
+    *(Video Help: [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Bloch+Theorem+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -173,34 +248,59 @@
 11. **(a)**
     * (i) Derive an expression for the moment of inertia of a hollow cylinder: (1) about its own cylindrical axis, and (2) about an axis passing through its center and perpendicular to its length. *(12 Marks)*
     * (ii) The Earth has a mass of $5.97 \times 10^{24}\text{ kg}$, and the Moon has a mass of $7.36 \times 10^{22}\text{ kg}$. The center of the Moon is at a distance of $384,000\text{ km}$ from the center of Earth. Find the position of the center of mass of the Earth–Moon system from the center of the Earth. *(4 Marks)*  
-    *OR*  
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Moment+of+Inertia+of+Cylinder+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Discuss in detail the rotational energy states of a rigid diatomic molecule. *(12 Marks)*
-    * (ii) A large circular disc is spun by applying a torque along its rim. Assuming a tangential force of $100\text{ N}$ acts through an angular displacement of $1\text{ rad}$, find the final angular velocity and rotational kinetic energy. Given: disc radius $R = 0.22\text{ m}$ and mass $M = 5\text{ kg}$. *(4 Marks)*
+    * (ii) A large circular disc is spun by applying a torque along its rim. Assuming a tangential force of $100\text{ N}$ acts through an angular displacement of $1\text{ rad}$, find the final angular velocity and rotational kinetic energy. Given: disc radius $R = 0.22\text{ m}$ and mass $M = 5\text{ kg}$. *(4 Marks)*  
+    *(Video Help: [Rotational Energy of Diatomic Molecule in Tamil](https://www.youtube.com/results?search_query=Rotational+Energy+Levels+of+Diatomic+Molecule+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)** Derive the wave equation for plane electromagnetic waves propagating in vacuum directly from Maxwell’s curl equations. *(16 Marks)*  
-    *OR*  
-    **(b)** Discuss in detail the production and radiation pattern of electromagnetic waves from an accelerating electric dipole. *(16 Marks)*
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=EM+Wave+Equation+Derivation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss in detail the production and radiation pattern of electromagnetic waves from an accelerating electric dipole. *(16 Marks)*  
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Oscillating+Dipole+Radiation+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)**
     * (i) Explain the mechanism of energy transfer by a mechanical wave. *(12 Marks)*
     * (ii) A vehicle with a defective suspension system undergoes oscillations after hitting a road bump. Calculate the frequency and period of oscillation if the vehicle mass is $1000\text{ kg}$ ($1\text{ ton}$) and the effective spring force constant is $k = 2.69 \times 10^4\text{ N/m}$. *(4 Marks)*  
-    *OR*  
+    *(Video Help: [Harmonic Oscillator Classical vs Quantum in Tamil](https://www.youtube.com/results?search_query=Mechanical+Vibrations+Oscillations+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Discuss the construction, vibrational transitions, and working of a $\text{CO}_2$ gas laser with suitable energy diagrams. *(12 Marks)*
-    * (ii) A point light source situated $5\text{ m}$ below the surface of a quiet pool of water produces a circular illuminated circle when viewed from above. Taking the refractive index of water as $n = 1.33$, calculate the radius of the circle. *(4 Marks)*
+    * (ii) A point light source situated $5\text{ m}$ below the surface of a quiet pool of water produces a circular illuminated circle when viewed from above. Taking the refractive index of water as $n = 1.33$, calculate the radius of the circle. *(4 Marks)*  
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=CO2+Laser+Construction+and+Working+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)**
     * (i) Obtain Schrödinger’s time-independent and time-dependent wave equations for a particle in one dimension. *(12 Marks)*
     * (ii) What is the physical significance of the quantum mechanical wave function $\psi$? *(4 Marks)*  
-    *OR*  
+    *(Video Help: [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Wave+Equation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Derive the expression for the energy eigenvalues and eigenfunctions of a particle trapped in a one-dimensional infinite potential well. *(12 Marks)*
-    * (ii) What do you understand from Bohr’s correspondence principle? *(4 Marks)*
+    * (ii) What do you understand from Bohr’s correspondence principle? *(4 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)** Describe the construction and working of a Scanning Tunneling Microscope (STM) with suitable schematic diagrams and current-distance relations. *(16 Marks)*  
-    *OR*  
-    **(b)** Describe the quantum dynamics and wave function penetration of a fundamental particle incident on a one-dimensional potential well of finite depth. *(16 Marks)*
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Describe the quantum dynamics and wave function penetration of a fundamental particle incident on a one-dimensional potential well of finite depth. *(16 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Finite+Potential+Well+Quantum+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -222,42 +322,67 @@
 #### PART B — ($5 \times 16 = 80\text{ Marks}$)
 
 11. **(a)** Derive the general expression for the rotational kinetic energy and moment of inertia of a rigid body rotating about a fixed axis. *(16 Marks)*  
-    *OR*  
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Rotational+Kinetic+Energy+Moment+of+Inertia+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Explain the working principle, construction, structural types, and uses of a gyroscope. *(10 Marks)*
-    * (ii) Derive the rotational energy levels of a rigid diatomic molecule. *(6 Marks)*
+    * (ii) Derive the rotational energy levels of a rigid diatomic molecule. *(6 Marks)*  
+    *(Video Help: [Gyroscope Principle and Working in Tamil](https://www.youtube.com/results?search_query=Gyroscope+in+Tamil+PH3151+4G+Silver+Academy) / [Rotational Energy of Diatomic Molecule in Tamil](https://www.youtube.com/results?search_query=Rotational+Energy+Levels+of+Diatomic+Molecule+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)**
     * (i) Using Maxwell’s equations, derive the wave equation for electric and magnetic fields in free space. *(12 Marks)*
     * (ii) An electromagnetic wave propagates along the $+x$-direction. The magnetic field oscillates at a frequency of $10^{10}\text{ Hz}$ with an amplitude of $10^{-5}\text{ T}$ along the $y$-direction. Compute the wavelength of the wave. *(4 Marks)*  
-    *OR*  
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) With suitable sketches, discuss the states of polarization of electromagnetic waves (linear, circular, elliptical). *(10 Marks)*
-    * (ii) Calculate the reflection ($R$) and transmission ($T$) coefficients of an electromagnetic wave incident normally from air ($n_1 = 1$) into glass ($n_2 = 1.5$). *(6 Marks)*
+    * (ii) Calculate the reflection ($R$) and transmission ($T$) coefficients of an electromagnetic wave incident normally from air ($n_1 = 1$) into glass ($n_2 = 1.5$). *(6 Marks)*  
+    *(Video Help: [Reflection and Transmission of EM Waves in Tamil](https://www.youtube.com/results?search_query=Reflection+and+Transmission+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)**
     * (i) Explain simple harmonic motion and detail the physical conditions required for the occurrence of resonance. *(8 Marks)*
     * (ii) Formulate the mathematical and physical analogies between electrical ($LCR$) and mechanical ($m$-$b$-$k$) oscillators. *(8 Marks)*  
-    *OR*  
+    *(Video Help: [Harmonic Oscillator Classical vs Quantum in Tamil](https://www.youtube.com/results?search_query=Electrical+and+Mechanical+Oscillator+Analogy+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Elaborate on the various radiative transition processes (absorption, spontaneous emission, stimulated emission) and tabulate the operational differences between $\text{Nd:YAG}$ and $\text{CO}_2$ lasers. *(10 Marks)*
-    * (ii) An air wedge is formed by placing a thin foil between the edges of two flat glass plates at a distance of $75\text{ mm}$ from their contact line. When illuminated normally with light of wavelength $\lambda = 5.8 \times 10^{-7}\text{ m}$, the resulting interference fringes are spaced $1.30\text{ mm}$ apart. Calculate the thickness of the foil. *(6 Marks)*
+    * (ii) An air wedge is formed by placing a thin foil between the edges of two flat glass plates at a distance of $75\text{ mm}$ from their contact line. When illuminated normally with light of wavelength $\lambda = 5.8 \times 10^{-7}\text{ m}$, the resulting interference fringes are spaced $1.30\text{ mm}$ apart. Calculate the thickness of the foil. *(6 Marks)*  
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=CO2+Laser+and+Nd+YAG+Laser+in+Tamil+PH3151+4G+Silver+Academy) / [Air Wedge Experiment in Tamil](https://www.youtube.com/results?search_query=Air+Wedge+Experiment+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)**
     * (i) Derive the time-dependent Schrödinger wave equation for a non-relativistic particle. *(8 Marks)*
     * (ii) In a Compton scattering experiment, the scattered photon has an energy of $120\text{ keV}$ and the recoiling electron acquires an energy of $40\text{ keV}$. Estimate the scattering angle $\theta$ of the photon. *(8 Marks)*  
-    *OR*  
+    *(Video Help: [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Wave+Equation+in+Tamil+PH3151+4G+Silver+Academy) / [Compton Effect in Tamil](https://www.youtube.com/results?search_query=Compton+Effect+Derivation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Deduce the energy eigenvalues and eigenfunctions of a particle confined within a one-dimensional infinite potential box. *(12 Marks)*
-    * (ii) List the mathematical properties required for an acceptable quantum wave function. *(4 Marks)*
+    * (ii) List the mathematical properties required for an acceptable quantum wave function. *(4 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)**
     * (i) Explain the quantum mechanical phenomenon of barrier penetration and tunneling. *(6 Marks)*
     * (ii) Illustrate the working principle, tunneling current sensitivity, and instrumentation of a Scanning Tunneling Microscope (STM). *(10 Marks)*  
-    *OR*  
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Discuss the operating principle, energy band profile, and current-voltage characteristics of a resonant tunneling diode (RTD). *(6 Marks)*
-    * (ii) Explain the Kronig–Penney model for an electron in a periodic potential and highlight its salient mathematical results and band-gap predictions. *(10 Marks)*
+    * (ii) Explain the Kronig–Penney model for an electron in a periodic potential and highlight its salient mathematical results and band-gap predictions. *(10 Marks)*  
+    *(Video Help: [Resonant Tunneling Diode RTD in Tamil](https://www.youtube.com/results?search_query=Resonant+Tunneling+Diode+in+Tamil+PH3151+4G+Silver+Academy) / [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Kronig+Penney+Model+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -279,26 +404,51 @@
 #### PART B — ($5 \times 16 = 80\text{ Marks}$)
 
 11. **(a)** Explain in detail the principle, construction, precessional motion, and practical applications of a gyroscope. *(16 Marks)*  
-    *OR*  
-    **(b)** Discuss in detail the rotational energy states and transition spectra of a rigid diatomic molecule. *(16 Marks)*
+    *(Video Help: [Gyroscope Principle and Working in Tamil](https://www.youtube.com/results?search_query=Gyroscope+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss in detail the rotational energy states and transition spectra of a rigid diatomic molecule. *(16 Marks)*  
+    *(Video Help: [Rotational Energy of Diatomic Molecule in Tamil](https://www.youtube.com/results?search_query=Rotational+Energy+Levels+of+Diatomic+Molecule+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)** Derive Maxwell’s equations in both integral and differential forms. Explain the physical terms involved along with their units, and state the physical significance of each equation. *(16 Marks)*  
-    *OR*  
-    **(b)** Discuss in detail the reflection and transmission of electromagnetic waves incident normally on the boundary of a non-conducting dielectric medium. *(16 Marks)*
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss in detail the reflection and transmission of electromagnetic waves incident normally on the boundary of a non-conducting dielectric medium. *(16 Marks)*  
+    *(Video Help: [Reflection and Transmission of EM Waves in Tamil](https://www.youtube.com/results?search_query=Reflection+and+Transmission+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)** How are standing waves produced? Derive the general expression for the wave equation of standing waves on a stretched string. *(16 Marks)*  
-    *OR*  
-    **(b)** What are the physical processes that occur when light interacts with atomic systems? Derive Einstein’s $A$ and $B$ relations for a two-level energy system. *(16 Marks)*
+    *(Video Help: [Standing Waves on a Stretched String in Tamil](https://www.youtube.com/results?search_query=Standing+Waves+on+a+String+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** What are the physical processes that occur when light interacts with atomic systems? Derive Einstein’s $A$ and $B$ relations for a two-level energy system. *(16 Marks)*  
+    *(Video Help: [Einstein's Coefficients in Tamil](https://www.youtube.com/results?search_query=Einstein+Coefficients+A+and+B+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)** Derive the mathematical expressions for:
     * (i) Schrödinger's time-independent wave equation *(8 Marks)*
     * (ii) Schrödinger's time-dependent wave equation *(8 Marks)*  
-    *OR*  
-    **(b)** Derive the normalized eigenfunctions and corresponding energy eigenvalues for a particle trapped inside a one-dimensional potential well of infinite depth. *(16 Marks)*
+    *(Video Help: [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Wave+Equation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Derive the normalized eigenfunctions and corresponding energy eigenvalues for a particle trapped inside a one-dimensional potential well of infinite depth. *(16 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)** State the fundamental principle of the Scanning Tunneling Microscope (STM). Explain its detailed construction, piezo-scanner controls, and operational imaging modes. *(16 Marks)*  
-    *OR*  
-    **(b)** Discuss the Kronig–Penney model for a one-dimensional periodic potential and explain on its basis the origin of allowed energy bands and forbidden band gaps. *(16 Marks)*
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss the Kronig–Penney model for a one-dimensional periodic potential and explain on its basis the origin of allowed energy bands and forbidden band gaps. *(16 Marks)*  
+    *(Video Help: [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Kronig+Penney+Model+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -322,28 +472,53 @@
 11. **(a)**
     * (i) Derive the equation of rotational motion for a rigid body rotating about a fixed axis ($\tau = I\alpha$). *(8 Marks)*
     * (ii) Derive the relationship between rotational kinetic energy and moment of inertia ($K = \frac{1}{2}I\omega^2$). *(8 Marks)*  
-    *OR*  
-    **(b)** Provide a comprehensive description of the construction, working principle, gyroscopic precession, and navigational applications of a gyroscope. *(16 Marks)*
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Rotational+Kinetic+Energy+Moment+of+Inertia+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Provide a comprehensive description of the construction, working principle, gyroscopic precession, and navigational applications of a gyroscope. *(16 Marks)*  
+    *(Video Help: [Gyroscope Principle and Working in Tamil](https://www.youtube.com/results?search_query=Gyroscope+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)**
     * (i) Write Maxwell’s four fundamental equations and explain the physical characteristics and laws represented by each equation. *(8 Marks)*
     * (ii) Give a brief explanation of the origin of electromagnetic waves from oscillating charges and state their core properties. *(8 Marks)*  
-    *OR*  
-    **(b)** Discuss the propagation, reflection, and transmission characteristics of electromagnetic waves when they transition normally from a vacuum to a non-conducting dielectric medium. *(16 Marks)*
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Discuss the propagation, reflection, and transmission characteristics of electromagnetic waves when they transition normally from a vacuum to a non-conducting dielectric medium. *(16 Marks)*  
+    *(Video Help: [Reflection and Transmission of EM Waves in Tamil](https://www.youtube.com/results?search_query=Reflection+and+Transmission+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)** Describe how interference fringes are formed in an air-wedge-shaped thin film. Show how this experimental arrangement is used to measure the diameter of a thin wire. *(16 Marks)*  
-    *OR*  
-    **(b)** Describe the fundamental vibrational modes of the $\text{CO}_2$ molecule. Detail the design, gas mixture composition, pumping mechanism, and operation of a continuous-wave $\text{CO}_2$ laser with energy level diagrams. *(16 Marks)*
+    *(Video Help: [Air Wedge Experiment in Tamil](https://www.youtube.com/results?search_query=Air+Wedge+Experiment+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Describe the fundamental vibrational modes of the $\text{CO}_2$ molecule. Detail the design, gas mixture composition, pumping mechanism, and operation of a continuous-wave $\text{CO}_2$ laser with energy level diagrams. *(16 Marks)*  
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=CO2+Laser+Construction+and+Working+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)**
     * (i) Explain de Broglie’s matter wave hypothesis and derive the expression for the de Broglie wavelength associated with a moving particle of mass $m$ and kinetic energy $E$. *(8 Marks)*
     * (ii) Derive Schrödinger’s time-dependent wave equation in one dimension. *(8 Marks)*  
-    *OR*  
-    **(b)** Derive the expressions for the quantized energy levels and normalized wave functions of a particle confined within a one-dimensional infinite potential box of width $a$. *(16 Marks)*
+    *(Video Help: [de Broglie Matter Waves in Tamil](https://www.youtube.com/results?search_query=de+Broglie+Matter+Waves+in+Tamil+PH3151+4G+Silver+Academy) / [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Wave+Equation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Derive the expressions for the quantized energy levels and normalized wave functions of a particle confined within a one-dimensional infinite potential box of width $a$. *(16 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)** Derive an expression for the quantized energy levels of a simple harmonic oscillator by solving the Schrödinger wave equation. *(16 Marks)*  
-    *OR*  
-    **(b)** With an appropriate energy band diagram, describe the construction, resonance conditions, and operational $I$-$V$ characteristics of a resonant tunneling diode (RTD). *(16 Marks)*
+    *(Video Help: [Harmonic Oscillator Classical vs Quantum in Tamil](https://www.youtube.com/results?search_query=Quantum+Harmonic+Oscillator+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** With an appropriate energy band diagram, describe the construction, resonance conditions, and operational $I$-$V$ characteristics of a resonant tunneling diode (RTD). *(16 Marks)*  
+    *(Video Help: [Resonant Tunneling Diode RTD in Tamil](https://www.youtube.com/results?search_query=Resonant+Tunneling+Diode+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -365,30 +540,60 @@
 #### PART B — ($5 \times 13 = 65\text{ Marks}$)
 
 11. **(a)** Derive the equations for the rotational kinetic energy of a system of particles and relate it to the tensor moment of inertia. *(13 Marks)*  
-    *OR*  
-    **(b)** What is a torsional pendulum? Derive the mathematical formula for the rigidity modulus of a suspension wire using a torsional pendulum. *(13 Marks)*
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Rotational+Kinetic+Energy+Moment+of+Inertia+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** What is a torsional pendulum? Derive the mathematical formula for the rigidity modulus of a suspension wire using a torsional pendulum. *(13 Marks)*  
+    *(Video Help: [Torsional Pendulum in Tamil](https://www.youtube.com/results?search_query=Torsional+Pendulum+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)** Derive expressions for the reflection and transmission coefficients of plane electromagnetic waves incident normally on the planar interface between free space and a non-conducting dielectric medium. *(13 Marks)*  
-    *OR*  
-    **(b)** State, derive, and explain the physical foundation of the four Maxwell equations in electrodynamics. *(13 Marks)*
+    *(Video Help: [Reflection and Transmission of EM Waves in Tamil](https://www.youtube.com/results?search_query=Reflection+and+Transmission+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** State, derive, and explain the physical foundation of the four Maxwell equations in electrodynamics. *(13 Marks)*  
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)** Describe the optical layout of Michelson’s Interferometer and explain the formation of circular and localized interference fringes. *(13 Marks)*  
-    *OR*  
-    **(b)** Explain the principle, four-level vibrational transitions, construction, and operation of a $\text{CO}_2$ laser. *(13 Marks)*
+    *(Video Help: [Michelson Interferometer in Tamil](https://www.youtube.com/results?search_query=Michelson+Interferometer+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Explain the principle, four-level vibrational transitions, construction, and operation of a $\text{CO}_2$ laser. *(13 Marks)*  
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=CO2+Laser+Construction+and+Working+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)** Define the Compton effect. Derive the mathematical expression for the wavelength of the scattered X-ray photon as a function of scattering angle $\theta$. *(13 Marks)*  
-    *OR*  
-    **(b)** Deduce Schrödinger’s time-dependent and time-independent wave equations from first principles. *(13 Marks)*
+    *(Video Help: [Compton Effect in Tamil](https://www.youtube.com/results?search_query=Compton+Effect+Derivation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Deduce Schrödinger’s time-dependent and time-independent wave equations from first principles. *(13 Marks)*  
+    *(Video Help: [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Wave+Equation+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)** Explain the quantum behavior of an electron moving in a one-dimensional periodic potential lattice using the Kronig–Penney model. *(13 Marks)*  
-    *OR*  
-    **(b)** Describe the physical principle, construction, and working of a Scanning Tunneling Microscope (STM). Write down its notable merits and operational limitations. *(13 Marks)*
+    *(Video Help: [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Kronig+Penney+Model+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Describe the physical principle, construction, and working of a Scanning Tunneling Microscope (STM). Write down its notable merits and operational limitations. *(13 Marks)*  
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy))*
 
 #### PART C — ($1 \times 15 = 15\text{ Marks}$)
 
 16. **(a)** Derive the expressions for the quantized energy eigenvalues and normalized eigenfunctions of a particle enclosed in a one-dimensional potential box of width $a$ and infinite barrier walls. Plot the first three states. *(15 Marks)*  
-    *OR*  
-    **(b)** Describe an optical interference experiment to determine the thickness of a very thin wire or foil by forming an air wedge between optical flats. Derive the relevant fringe-spacing formula. *(15 Marks)*
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Describe an optical interference experiment to determine the thickness of a very thin wire or foil by forming an air wedge between optical flats. Derive the relevant fringe-spacing formula. *(15 Marks)*  
+    *(Video Help: [Air Wedge Experiment in Tamil](https://www.youtube.com/results?search_query=Air+Wedge+Experiment+in+Tamil+PH3151+4G+Silver+Academy))*
 
 ---
 
@@ -414,34 +619,59 @@
     * (ii) Consider a uniform thin rod of length $L$ and linear mass density $\lambda$:
       1. Find its moment of inertia when rotated about an axis passing through its midpoint and perpendicular to its length. *(5 Marks)*
       2. Find its moment of inertia when rotated about an axis passing through one of its ends and perpendicular to its length. *(5 Marks)*  
-    *OR*  
+    *(Video Help: [Moment of Inertia Theorems in Tamil](https://www.youtube.com/results?search_query=Moment+of+Inertia+Theorems+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Explain the physical principle of conservation of angular momentum with real-world demonstrations. *(6 Marks)*
     * (ii) How is the rigidity modulus of a wire measured experimentally using a torsional pendulum? *(5 Marks)*
-    * (iii) Using the same torsional pendulum apparatus, describe how to determine the unknown moment of inertia of an irregular circular disc. *(5 Marks)*
+    * (iii) Using the same torsional pendulum apparatus, describe how to determine the unknown moment of inertia of an irregular circular disc. *(5 Marks)*  
+    *(Video Help: [Torsional Pendulum in Tamil](https://www.youtube.com/results?search_query=Torsional+Pendulum+in+Tamil+PH3151+4G+Silver+Academy))*
 
 12. **(a)** Derive Maxwell’s electromagnetic equations in differential form in free space where stationary and displacement charges are present. *(16 Marks)*  
-    *OR*  
-    **(b)** An electromagnetic wave is incident normally on the flat interface between a lossless dielectric material and a vacuum. Derive the reflection and transmission coefficients using electromagnetic boundary conditions. *(16 Marks)*
+    *(Video Help: [Maxwell's Equations in Tamil](https://www.youtube.com/results?search_query=Maxwell+Equations+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** An electromagnetic wave is incident normally on the flat interface between a lossless dielectric material and a vacuum. Derive the reflection and transmission coefficients using electromagnetic boundary conditions. *(16 Marks)*  
+    *(Video Help: [Reflection and Transmission of EM Waves in Tamil](https://www.youtube.com/results?search_query=Reflection+and+Transmission+of+Electromagnetic+Waves+in+Tamil+PH3151+4G+Silver+Academy))*
 
 13. **(a)**
     * (i) Derive the mathematical expression for the rate of energy transfer (Poynting power flow) of a travelling wave. *(10 Marks)*
     * (ii) Explain how the speed of light or small displacements are measured with high precision using an optical interferometer. *(6 Marks)*  
-    *OR*  
+    *(Video Help: [Poynting Vector and Radiation Pressure in Tamil](https://www.youtube.com/results?search_query=Poynting+Vector+Radiation+Pressure+in+Tamil+PH3151+4G+Silver+Academy) / [Michelson Interferometer in Tamil](https://www.youtube.com/results?search_query=Michelson+Interferometer+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Describe the active medium, optical pumping, construction, and working of an $\text{Nd:YAG}$ solid-state laser with an energy level diagram. *(12 Marks)*
-    * (ii) List any four vital industrial and surgical applications of high-power lasers. *(4 Marks)*
+    * (ii) List any four vital industrial and surgical applications of high-power lasers. *(4 Marks)*  
+    *(Video Help: [Nd YAG and CO2 Laser in Tamil](https://www.youtube.com/results?search_query=Nd+YAG+Laser+Construction+and+Working+in+Tamil+PH3151+4G+Silver+Academy))*
 
 14. **(a)**
     * (i) Derive Schrödinger’s time-independent wave equation for a stationary state in one dimension. *(10 Marks)*
     * (ii) Explain the mathematical and physical conditions that an acceptable quantum wave function must satisfy. *(6 Marks)*  
-    *OR*  
-    **(b)** Derive the energy eigenvalues and eigenfunctions of a particle confined within a three-dimensional infinite potential box ($L_x \times L_y \times L_z$). Discuss the physical concept of energy state degeneracy. *(16 Marks)*
+    *(Video Help: [Schrodinger Wave Equation in Tamil](https://www.youtube.com/results?search_query=Schrodinger+Wave+Equation+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
+    **(b)** Derive the energy eigenvalues and eigenfunctions of a particle confined within a three-dimensional infinite potential box ($L_x \times L_y \times L_z$). Discuss the physical concept of energy state degeneracy. *(16 Marks)*  
+    *(Video Help: [Particle in a 1D Box in Tamil](https://www.youtube.com/results?search_query=Particle+in+a+1D+Box+in+Tamil+PH3151+4G+Silver+Academy))*
 
 15. **(a)**
     * (i) Describe the instrumentation, construction, and working principle of a Scanning Tunneling Microscope (STM). *(10 Marks)*
     * (ii) Explain barrier penetration and quantum tunneling through a rectangular potential barrier with suitable mathematical statements and sketches. *(6 Marks)*  
-    *OR*  
+    *(Video Help: [Scanning Tunneling Microscope STM in Tamil](https://www.youtube.com/results?search_query=Scanning+Tunneling+Microscope+STM+in+Tamil+PH3151+4G+Silver+Academy))*  
+    <br>
+
+    *OR*
+
     **(b)**
     * (i) Describe the Kronig–Penney model for periodic crystal potentials and discuss its salient analytical outcomes. *(10 Marks)*
-    * (ii) Discuss qualitatively how discrete atomic energy levels broaden into continuous energy bands and forbidden gaps in crystalline solids. *(6 Marks)*
+    * (ii) Discuss qualitatively how discrete atomic energy levels broaden into continuous energy bands and forbidden gaps in crystalline solids. *(6 Marks)*  
+    *(Video Help: [Kronig Penney Model in Tamil](https://www.youtube.com/results?search_query=Kronig+Penney+Model+in+Tamil+PH3151+4G+Silver+Academy))*
